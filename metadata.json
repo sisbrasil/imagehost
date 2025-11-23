@@ -1,0 +1,5 @@
+{
+  "name": "ImageHost Admin",
+  "description": "A comprehensive admin dashboard for an image hosting platform featuring user management, plan configuration, image galleries, and upload functionality.",
+  "requestFramePermissions": []
+}
